@@ -31,6 +31,7 @@ Wire Wire Line
 	5850 3550 5750 3550
 Wire Wire Line
 	6250 3550 6200 3550
+
 Wire Wire Line
 	6250 2950 6250 3550
 NoConn ~ 5350 2950
